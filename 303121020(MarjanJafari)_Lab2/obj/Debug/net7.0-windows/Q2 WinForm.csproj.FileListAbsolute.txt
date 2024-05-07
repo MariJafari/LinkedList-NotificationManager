@@ -1,0 +1,54 @@
+C:\Users\Damon\source\repos\COMP212Lab2\bin\Debug\net7.0-windows\Q2 WinForm.exe
+C:\Users\Damon\source\repos\COMP212Lab2\bin\Debug\net7.0-windows\Q2 WinForm.deps.json
+C:\Users\Damon\source\repos\COMP212Lab2\bin\Debug\net7.0-windows\Q2 WinForm.runtimeconfig.json
+C:\Users\Damon\source\repos\COMP212Lab2\bin\Debug\net7.0-windows\Q2 WinForm.dll
+C:\Users\Damon\source\repos\COMP212Lab2\bin\Debug\net7.0-windows\Q2 WinForm.pdb
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\COMP212Lab2.ManageSubcription.resources
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\COMP212Lab2.NotificationManager.resources
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\COMP212Lab2.PublishNotificationForm.resources
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\Q2 WinForm.csproj.GenerateResource.cache
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\Q2 WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\Q2 WinForm.AssemblyInfoInputs.cache
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\Q2 WinForm.AssemblyInfo.cs
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\Q2 WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\Q2 WinForm.dll
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\refint\Q2 WinForm.dll
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\Q2 WinForm.pdb
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\Q2 WinForm.genruntimeconfig.cache
+C:\Users\Damon\source\repos\COMP212Lab2\obj\Debug\net7.0-windows\ref\Q2 WinForm.dll
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\bin\Debug\net7.0-windows\Q2 WinForm.exe
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\bin\Debug\net7.0-windows\Q2 WinForm.deps.json
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\bin\Debug\net7.0-windows\Q2 WinForm.runtimeconfig.json
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\bin\Debug\net7.0-windows\Q2 WinForm.dll
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\bin\Debug\net7.0-windows\Q2 WinForm.pdb
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\COMP212Lab2.ManageSubcription.resources
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\COMP212Lab2.NotificationManager.resources
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\COMP212Lab2.PublishNotificationForm.resources
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.csproj.GenerateResource.cache
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.AssemblyInfoInputs.cache
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.AssemblyInfo.cs
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.dll
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\refint\Q2 WinForm.dll
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.pdb
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.genruntimeconfig.cache
+C:\Users\Damon\source\repos\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\ref\Q2 WinForm.dll
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\bin\Debug\net7.0-windows\Q2 WinForm.exe
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\bin\Debug\net7.0-windows\Q2 WinForm.deps.json
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\bin\Debug\net7.0-windows\Q2 WinForm.runtimeconfig.json
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\bin\Debug\net7.0-windows\Q2 WinForm.dll
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\bin\Debug\net7.0-windows\Q2 WinForm.pdb
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\COMP212Lab2.ManageSubcription.resources
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\COMP212Lab2.NotificationManager.resources
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\COMP212Lab2.PublishNotificationForm.resources
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.csproj.GenerateResource.cache
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.AssemblyInfoInputs.cache
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.AssemblyInfo.cs
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.csproj.CoreCompileInputs.cache
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.dll
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\refint\Q2 WinForm.dll
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.pdb
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\Q2 WinForm.genruntimeconfig.cache
+C:\Users\asusz\OneDrive\Desktop\301309263(Ching)_Lab2\301309263(Ching)_Lab2\obj\Debug\net7.0-windows\ref\Q2 WinForm.dll

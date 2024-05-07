@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\publishnotificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:publishnotificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\subscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:subscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\publishnotificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:publishnotificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\notificationmanager.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:notificationmanager.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\notificationmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:notificationmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\managesubcription.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:managesubcription.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\managesubcription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:managesubcription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\managesubcription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:managesubcription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|c:\\users\\asusz\\onedrive\\desktop\\301321020(marjanjafari)_lab2\\303121020(marjanjafari)_lab2\\notificationmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD95DE23-0E9B-40C9-9356-F482CD4B50FD}|NotificationManager.csproj|solutionrelative:notificationmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscriptionManager.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\SubscriptionManager.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\SubscriptionManager.cs",
+              "RelativeToolTip": "SubscriptionManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T19:10:21.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "NotificationManager.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.cs",
+              "RelativeToolTip": "NotificationManager.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:57:28.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PublishNotificationForm.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\PublishNotificationForm.cs",
+              "RelativeDocumentMoniker": "PublishNotificationForm.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\PublishNotificationForm.cs",
+              "RelativeToolTip": "PublishNotificationForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:55:05.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublishNotificationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\PublishNotificationForm.cs",
+              "RelativeDocumentMoniker": "PublishNotificationForm.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\PublishNotificationForm.cs [Design]",
+              "RelativeToolTip": "PublishNotificationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:55:59.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationService.cs",
+              "RelativeDocumentMoniker": "NotificationService.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationService.cs",
+              "RelativeToolTip": "NotificationService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:57:45.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "NotificationManager.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.cs [Design]",
+              "RelativeToolTip": "NotificationManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:55:38.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.Designer.cs",
+              "RelativeDocumentMoniker": "NotificationManager.Designer.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.Designer.cs",
+              "RelativeToolTip": "NotificationManager.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:57:55.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:58:12.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationManager.resx",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.resx",
+              "RelativeDocumentMoniker": "NotificationManager.resx",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.resx",
+              "RelativeToolTip": "NotificationManager.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-02-16T18:57:57.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageSubcription.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\ManageSubcription.Designer.cs",
+              "RelativeDocumentMoniker": "ManageSubcription.Designer.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\ManageSubcription.Designer.cs",
+              "RelativeToolTip": "ManageSubcription.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:57:21.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageSubcription.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\ManageSubcription.cs",
+              "RelativeDocumentMoniker": "ManageSubcription.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\ManageSubcription.cs",
+              "RelativeToolTip": "ManageSubcription.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAADwv2gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:56:51.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageSubcription.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\ManageSubcription.cs",
+              "RelativeDocumentMoniker": "ManageSubcription.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\ManageSubcription.cs [Design]",
+              "RelativeToolTip": "ManageSubcription.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:55:23.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificationManager.csproj",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.csproj",
+              "RelativeDocumentMoniker": "NotificationManager.csproj",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.csproj",
+              "RelativeToolTip": "NotificationManager.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-16T18:55:13.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

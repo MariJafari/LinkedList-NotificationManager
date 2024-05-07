@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.csproj",
+        "projectName": "NotificationManager",
+        "projectPath": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\NotificationManager.csproj",
+        "packagesPath": "C:\\Users\\asusz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asusz\\OneDrive\\Desktop\\301321020(MarjanJafari)_Lab2\\303121020(MarjanJafari)_Lab2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
